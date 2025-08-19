@@ -1,4 +1,4 @@
-# STT-TTS# STT-TTS
+# STT-TTS
 
 ## Overview
 
